@@ -1,0 +1,11 @@
+{
+  "student_name": "YOUR NAME",
+  "roll_number": "ROLLNUMBER",
+  "github_url": "https://github.com/YOUR_USERNAME/luma-vault",
+  "live_url": "https://main.YOUR_APP_ID.amplifyapp.com/",
+  "amplify_screenshot": "amplify.png",
+  "ci_screenshot": "github-actions.png",
+  "cloudwatch_screenshot": "cloudwatch.png",
+  "findings_file": "findings.txt",
+  "extra_evidence": []
+}

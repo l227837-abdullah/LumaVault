@@ -1,0 +1,7 @@
+[Replace the prompts below with your own one-page account of the project.]
+
+Explain what you observed when you tested Google sign-in, the Users group, and the REST request with and without a token. Describe the difference between the Cognito user pool and the identity pool in this application.
+
+Explain what you learned by tracing a photo from the browser to S3 while its caption was saved through AppSync and DynamoDB. Describe a design trade-off you noticed or an issue you diagnosed.
+
+Describe what you saw in the GitHub Actions and Amplify runs. Summarize any check findings and the changes or assessment you made. Explain how the request ID helped you verify the REST request in CloudWatch and how the project changed your understanding of serverless development.

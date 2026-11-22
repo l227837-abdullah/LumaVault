@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.amplify/
+cdk.out/
+amplify_outputs.json
+.env
+.env.*
+*.pem
+*.key
+client_secret*.json
+__pycache__/
+report-input/
+*_FinalProject.pdf
